@@ -1,0 +1,5 @@
+databaseChangeLog:
+  - include:
+      file: db.changelog/0.0.1/orders-1.sql
+  - include:
+      file: db.changelog/0.0.2/persons-1.sql
